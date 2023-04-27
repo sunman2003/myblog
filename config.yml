@@ -1,11 +1,4 @@
-<<<<<<< HEAD
-baseURL: http://example.org/
-languageCode: en-us
-title: My New Hugo Site
-theme: "PaperMod"
-=======
 baseURL: https://sunman2003.github.io/myblog/
 languageCode: en-us
 title: My New Hugo Site
 theme: "PaperMod"
->>>>>>> master
